@@ -3,4 +3,7 @@ Growing Tree Growing me is a reflection of my personal growth through a fractal 
 
 
 
+![growing tree growing me](https://github.com/nicolefallone/GrowingTreeGrowingMe/blob/master/Fallone_GrowingTree.png)
+
+[See Growing Tree Growing Me in action on Vimeo](https://vimeo.com/336839190)
 
